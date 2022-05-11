@@ -17,6 +17,22 @@ Modulo:<?php echo fmod(20,7);?><br/>
 Random:<?php echo rand();?><br/>
 Random(min,max):<?php echo rand(1,10);?><br/>
 <br/>
++= :<?php $var2 += 4; echo $var2;?><br/>
+-= :<?php $var2 -= 4; echo $var2;?><br/>
+*= :<?php $var2 *= 3; echo $var2;?><br/>
+/= :<?php $var2 /= 4; echo $var2;?><br/>
+<br/>
+Increment: <?php $var2++;echo $var2;?><br/>
+Decrement: <?php $var2--;echo $var2;?><br/>
+<br/>
+<?php
+echo 1 + "1";
+
+
+?>
+
+
+
 
   </body>
 </html>
