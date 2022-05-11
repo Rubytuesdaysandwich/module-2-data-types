@@ -1,7 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>string function</title>
+    <title>string functions</title>
   </head>
-  <body></body>
+  <body>
+      <?php
+      
+      $first = "The quick brown fox";
+      $second = " jumped ove the lazy dog.";
+
+      $third = $first;
+      $third .=$second;
+      echo $third;
+      
+      
+      
+      
+      ?>
+  </body>
 </html>
