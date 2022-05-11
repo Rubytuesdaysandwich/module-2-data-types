@@ -12,10 +12,14 @@
       $third = $first;
       $third .=$second;
       echo $third;
-      
-      
-      
-      
+     
       ?>
+
+      <br/>
+      Lowercase: <?php echo strtolower($third);?><br/>
+      uppercase: <?php echo strtoupper($third);?><br/>
+      uppercase first: <?php echo ucfirst($third);?><br/>
+      uppercase words: <?php echo ucwords($third);?><br/>
+      
   </body>
 </html>
