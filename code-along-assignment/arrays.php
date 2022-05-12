@@ -20,7 +20,7 @@ echo $numbers[0];//arrays start at 0
 <?php $mixed[] = "horse";//sets horse to the 5th array position or last position?>
 
 <pre>
-<?php echo print_r($mixed);?>
+<?php echo print_r($mixed);//prints out array in table form so we can see them?>
 </pre>
 
 
