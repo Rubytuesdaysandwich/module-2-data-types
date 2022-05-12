@@ -5,9 +5,9 @@
   </head>
   <body>
 <?php
-    $max_width = 980;
+    $max_width = 980;//this is a normal variable
     
-    define("MAX_WIDTH",980);
+    define("MAX_WIDTH",980);//defining a constant to a value
    echo MAX_WIDTH;
 ?>
 <br/>
