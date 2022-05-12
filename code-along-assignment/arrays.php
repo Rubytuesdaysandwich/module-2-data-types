@@ -5,11 +5,11 @@
   </head>
   <body>
 <?php
-$numbers = array(4,8,15,16,23,42);
+$numbers = array(4,8,15,16,23,42);//array containing numbers
 echo $numbers[0];//arrays start at 0
 ?>
-<?php $mixed = array(6, "fox", "dog", array("x","y","z"));?><br/>
-<?php echo $mixed[2];?><br/>
+<?php $mixed = array(6, "fox", "dog", array("x","y","z"));//mixed array with integers and strings?><br/>
+<?php echo $mixed[2];//echo array position 2?><br/>
 <?php //echo $mixed[3];?><br/>
 <?php //echo $mixed; ?><br/>
 
