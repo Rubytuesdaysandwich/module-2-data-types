@@ -17,7 +17,7 @@
 </pre>
 <br/>
   Implode: <?php echo $num_string = implode(" * ", $numbers);//create a string. No longer array?><br/>
-  Explode: <?php print_r(explode(" * ", $num_string)); ?><br/>
+  Explode: <?php print_r(explode(" * ", $num_string));//rebuilds the array ?><br/>
   <br/>
   15 in the array?:<?php echo in_array(15,$numbers);//returns T/F?><br/>
   19 in the array?:<?php echo in_array(19,$numbers);//returns T/F?><br/>
