@@ -24,7 +24,6 @@ Var1 empty? <?php echo empty($var1);//checks to see if items are empty?><br/>
 Var2 empty? <?php echo empty($var2);//checks to see if items are empty?><br/>
 Var3 empty? <?php echo empty($var3);//checks to see if items are empty?><br/>
 
-
-<?php//note to self: empty and Null is one of the most common types of bugs in situations where you may need it to be empty for someone who does not have children for example?>
+<?php //note to self: empty and Null is one of the most common types of bugs in situations where you may need it to be empty for someone who does not have children for example?>
   </body>
 </html>
