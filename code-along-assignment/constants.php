@@ -21,7 +21,8 @@ define("MAX_WIDTH",981);
 echo MAX_WIDTH;
 ?>
 
-<!--note to self: by using constants we speed up the running time of our scripts because the cpu knows what it is going to be. -->
+<!--note to self: by using constants we speed up the running time of our scripts because the cpu knows what it is going to be. a good use of a 
+constant may be a route path to an images folder does not need changed -->
 
   </body>
 </html>
