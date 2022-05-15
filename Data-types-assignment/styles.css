@@ -1,0 +1,25 @@
+header {
+  background-color: rgb(113, 161, 17);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 75%;
+  padding-bottom: 100%;
+}
+header ul li {
+  list-style: none;
+}
+header ul li a {
+  text-decoration: none;
+  color: black;
+  margin: 16px;
+  text-transform: uppercase;
+  display: flex;
+}
+header ul li a:first-child {
+  margin-top: 40px;
+}
+
+body {
+  background-color: rgb(6, 102, 102);
+}
