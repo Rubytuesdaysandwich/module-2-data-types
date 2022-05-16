@@ -7,6 +7,9 @@
   <ul>
         <h1 class="php-header">PHP DATA TYPES</h1>
         <li>
+        <a href="basic.html">Home</a>
+        </li>
+        <li>
           <a href="data_types_part1.php">part1</a>
         </li>
         <li>
