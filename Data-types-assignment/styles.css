@@ -22,4 +22,11 @@ header ul li a:first-child {
 
 body {
   background-color: rgb(6, 102, 102);
+  margin-left: 20px;
+}
+.php-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50%;
 }
