@@ -4,6 +4,22 @@
     <title>Data-types part 3</title>
   </head>
   <body>
+  <ul>
+        <h1 class="php-header">PHP DATA TYPES</h1>
+        <li>
+          <a href="data_types_part1.php">part1</a>
+        </li>
+        <li>
+          <a href="data_types_part2.php">part2</a>
+        </li>
+        <li>
+          <a href="#">part3</a>
+        </li>
+        <li>
+          <a href="data_types_part4.php">part4</a>
+        </li>
+        
+      </ul>
 <!--original:--><?php $variable = 8 ;  echo "value is now {$variable}";//original value starting point?><br/>
 <!--add 2:--><?php $variable += 2; echo "value is now {$variable}";//solves for in place addition short version for concat?><br/>
 <!--subtract 4:--><?php $variable -= 4; echo "value is now {$variable}";//solves for in place subtraction short version for concat?><br/>

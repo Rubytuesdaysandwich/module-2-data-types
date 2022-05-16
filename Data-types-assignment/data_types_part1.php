@@ -4,8 +4,24 @@
     <title>data-types assignment</title>
   </head>
   <body>
-      Part 1:Outputing data
-      <br/>
+  <header>
+      <ul>
+        <h1 class="php-header">PHP DATA TYPES</h1>
+        <li>
+          <a href="#">part1</a>
+        </li>
+        <li>
+          <a href="data_types_part2.php">part2</a>
+        </li>
+        <li>
+          <a href="data_types_part3.php">part3</a>
+        </li>
+        <li>
+          <a href="data_types_part4.php">part4</a>
+        </li>
+        
+      </ul>
+    </header>
     1. <?php echo"Twinkle, Twinkle little star";//sends the string to the browser?><br/>
 
     2. <?php 
